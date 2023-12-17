@@ -12,7 +12,7 @@ To write a program to find the LU Decomposition of a matrix.
 2. Import scipy.linalg and numpy.
 3. Get input from user and store in array and print L.
 4. Using L find the U of the matrix and later fing LU of the matrix
-End the program.
+5. End the program.
 
 ## Program:
 (i) To find the L and U matrix
